@@ -190,6 +190,7 @@
 - [Paymaster contracts](https://github.com/pimlicolabs/erc20-paymaster-contracts) by Pimlico
 - [Arka Paymaster (open source paymaster service)](https://github.com/etherspot/arka) by Etherspot
 - [Governance Paymasters (open source paymasters that operate fully on-chain)](https://github.com/meliopolis/governance-paymaster)
+   -[Tollbeam](https://tollbeam.com) - Multi-chain ERC-4337 paymaster aggregator with automatic routing, fallback, and unified billing across Optimism, Base, and Arbitrum.
 
 ### Testing
 - [Bundler Compatibility Test Suite](https://github.com/eth-infinitism/bundler-spec-tests) by Infinitism
